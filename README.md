@@ -1,5 +1,6 @@
 ## ML 案例学习
 - [ ] 1. 基于决策树的英雄联盟游戏胜负预测(kaggle-League of Legends Diamond Ranked Games)
+- [ ] 2. 基于回归分析的大学综合得分预测(Kaggle-World University Rankings)
 
 
 
